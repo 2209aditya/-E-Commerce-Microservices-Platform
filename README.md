@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Microservices Platform
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -1014,3 +1015,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by [Your Team Name]**
 
 **⭐ Star this repo if you find it helpful!**
+=======
+# E-Commerce Microservices Platform
+
+Full-stack e-commerce microservices application.
+
+## Tech Stack
+- Backend: Spring Boot (Java)
+- Frontend: Angular
+- API Gateway: Spring Cloud Gateway
+- Auth: JWT
+- Infra: Docker, Kubernetes (YAML ready)
+- CI/CD: Jenkins + Argo CD ready
+
+This repository is a **production-style skeleton** you can extend.
+>>>>>>> 56f8241 (Initial commit: Fullstack e-commerce microservices)
